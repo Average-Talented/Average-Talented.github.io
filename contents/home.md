@@ -1,17 +1,18 @@
 
 
-[![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
+[![Averaged-Talented](https://img.shields.io/badge/AveragedTalented-github-blue?logo=github)](https://github.com/Average-Talented)
 
-He is currently a Fellow in the Department of Earth and Planetary Sciences (EPS) at Harvard University.
+I am currently a third-year student from EAST CHINA UNIVERSITY OF SCIENCE AND TECHNOLOGY (ECUST) majoring in Computer Science and Technology.
 
 #### Contact
 
-Email: senli[at]fas.harvard.edu
+Email: 23013226@mail.ecust.edu.cn
 
 #### Education
-M.E., Computer Science and Technology, China University of Mining and Technology, 2022—2025.\
-B.E., Data Science and Big Data Technology, China University of Mining and Technology, 2018—2022.
+2023-2027  EAST CHINA UNIVERSITY OF SCIENCE AND TECHNOLOGY - CS - Undergraduate
 
 #### Research Interests
-Machine Learning for Seismology; Foundation Model; Observational Seismology; Microseismic Monitoring
+Computer vision (CV), Natural Language Processing (NLP)
+
+
 
