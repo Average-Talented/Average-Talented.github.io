@@ -12,7 +12,7 @@ Email: 23013226@mail.ecust.edu.cn
 2023-2027  EAST CHINA UNIVERSITY OF SCIENCE AND TECHNOLOGY - CS - Undergraduate
 
 #### Research Interests
-Computer vision (CV), Natural Language Processing (NLP)
+Computer vision (CV), Natural Language Processing (NLP), Data Mining (DM)
 
 
 
